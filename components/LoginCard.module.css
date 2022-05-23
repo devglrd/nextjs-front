@@ -1,0 +1,38 @@
+.card {
+  background-color: white;
+  border-radius: 5rem;
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+  width: 50vh;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.subtitle {
+  color: #8b50e7;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.card > p {
+  color: grey;
+  font-size: 0.8rem;
+}
+.continueButton {
+  background-color: #44e259;
+  border: 1px solid #44e259;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 0.8rem;
+  margin-top: 1rem;
+}
